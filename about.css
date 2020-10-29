@@ -1,0 +1,69 @@
+
+div,p{
+color:#fff ;	
+}
+
+body{
+ background-image: url("11.jpg");
+ background-size: cover;
+}
+
+td {
+  height: 40px;
+  color: #0d7377;
+  text-align:center;
+  border-radius:15px; 
+  background:#0d7377;	
+  padding: 10px;
+
+  width:300px;
+height:150px;  
+margin:5px 
+
+}
+table{
+
+ border-radius:15px; 
+   background:#0d3377;
+   margin-top:300px;
+}
+.bar{
+  background:#0d7377;
+  border-radius:10px; 
+  text-align:center;
+  margin-top:-5px;
+
+  }
+  
+  .bar ul{
+  display:inline-flex;
+  list-style: none;
+  color:#fff ;
+  
+  }
+  
+  .bar ul li{
+    
+  width:100px;
+  margin:15px;
+  padding:15px;
+  
+   
+  }
+  
+  
+  .bar ul li a{
+  text-decoration:none;
+  color:#fff; 
+  
+  }
+  .active ,.bar ul li:hover{
+  border-radius:3px; 
+  background:#32e0c4;
+  
+  
+  }
+
+
+
+  }
