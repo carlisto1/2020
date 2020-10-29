@@ -1,0 +1,29 @@
+table{
+
+    border: 1px solid black;
+  background-color: #0d7377;
+    border-radius: 10px;
+    margin:auto;
+     width: 100px;
+       }
+  body{
+   background-image: url("1.jpg");
+   background-size: cover;
+  
+  }
+  
+  td {
+    height: 40px;
+    vertical-align: bottom;
+    color: #fff;
+  }
+  
+  caption {
+      caption-side: bottom;
+  }
+  
+  
+  ::-webkit-input-placeholder { 
+    color: #0d7377;
+  }
+  
